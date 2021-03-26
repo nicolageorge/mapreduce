@@ -1,0 +1,2 @@
+# mapreduce
+simple logs mapreduce
